@@ -1,4 +1,4 @@
-# Cryptocurrency-Trading-Bot-with-Forecasting-using-Prophet
+# Simulated Cryptocurrency Trading Bot with Forecasting using Prophet
 This simplified Python script implements a basic cryptocurrency trading bot that utilizes the Prophet time series forecasting model to make trading decisions. The bot fetches historical OHLCV (Open, High, Low, Close, Volume) data from a cryptocurrency exchange, performs time series forecasting using Prophet, and executes buy/sell orders based on predicted price trends. The script requires a functional Gate.io API key.
 
 ## How It Works
